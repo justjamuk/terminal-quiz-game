@@ -5,6 +5,6 @@ playing = input("Do you want to play? ")
 if playing != "yes":
     quit()
 
-print("okay! Let's Play! :)")
+print("okay! Let's Play!")
 
 score = 0 
