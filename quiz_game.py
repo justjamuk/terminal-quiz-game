@@ -51,4 +51,5 @@ else:
 #i have now added a string to the end of the quiz. the string with print out how many quesions you got correct.
 
 print("You got " + str(score) + " questions correct!")
+print("Thank you for takng part in my terminal game! I hope you had fun!")
 
