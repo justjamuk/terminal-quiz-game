@@ -47,4 +47,8 @@ if answer.lower() == "366":
     score += 1
 else:
     print("Incorrect!")
+    
+#i have now added a string to the end of the quiz. the string with print out how many quesions you got correct.
+
+print("You got " + str(score) + " questions correct!")
 
